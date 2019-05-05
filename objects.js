@@ -1,4 +1,5 @@
 var playlist = {
+  the cats: "hoho"
   the dogs: "ruff"
 }
 
