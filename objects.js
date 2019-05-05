@@ -2,7 +2,7 @@ var playlist = {
   the dogs: "ruff"
 }
 
-function updatePlaylist(obj, artist, song) = {
-  obj[artist] = song
+function updatePlaylist(playlist, artist, song) = {
+  playlist[artist] = song
   return playlist
 }
