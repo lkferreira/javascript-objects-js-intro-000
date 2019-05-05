@@ -1,6 +1,5 @@
 var playlist = {
-  the cats: "hoho",
-  the dogs: "ruff"
+  the dogs: 'ruff'
 }
 
 function updatePlaylist(playlist, artist, song) = {
